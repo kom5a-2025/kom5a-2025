@@ -1,4 +1,7 @@
-{
+"scripts": {
+  "start": "node backend.js",
+  "dev": "nodemon backend.js"
+}
   "name": "kom5a-artisan-connect",
   "version": "1.0.0",
   "main": "index.js",
@@ -13,4 +16,3 @@
     "nodemon": "^2.0.20"
   }
 }
-
